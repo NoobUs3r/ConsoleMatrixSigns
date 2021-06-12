@@ -1,0 +1,13 @@
+C:\Users\MKochubei\source\repos\GreenMatrixSigns\GreenMatrixSigns\bin\Debug\netcoreapp3.1\GreenMatrixSigns.exe
+C:\Users\MKochubei\source\repos\GreenMatrixSigns\GreenMatrixSigns\bin\Debug\netcoreapp3.1\GreenMatrixSigns.deps.json
+C:\Users\MKochubei\source\repos\GreenMatrixSigns\GreenMatrixSigns\bin\Debug\netcoreapp3.1\GreenMatrixSigns.runtimeconfig.json
+C:\Users\MKochubei\source\repos\GreenMatrixSigns\GreenMatrixSigns\bin\Debug\netcoreapp3.1\GreenMatrixSigns.runtimeconfig.dev.json
+C:\Users\MKochubei\source\repos\GreenMatrixSigns\GreenMatrixSigns\bin\Debug\netcoreapp3.1\GreenMatrixSigns.dll
+C:\Users\MKochubei\source\repos\GreenMatrixSigns\GreenMatrixSigns\bin\Debug\netcoreapp3.1\GreenMatrixSigns.pdb
+C:\Users\MKochubei\source\repos\GreenMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\GreenMatrixSigns.csprojAssemblyReference.cache
+C:\Users\MKochubei\source\repos\GreenMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\GreenMatrixSigns.AssemblyInfoInputs.cache
+C:\Users\MKochubei\source\repos\GreenMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\GreenMatrixSigns.AssemblyInfo.cs
+C:\Users\MKochubei\source\repos\GreenMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\GreenMatrixSigns.csproj.CoreCompileInputs.cache
+C:\Users\MKochubei\source\repos\GreenMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\GreenMatrixSigns.dll
+C:\Users\MKochubei\source\repos\GreenMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\GreenMatrixSigns.pdb
+C:\Users\MKochubei\source\repos\GreenMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\GreenMatrixSigns.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\MKochubei\source\repos\ConsoleMatrixSigns\GreenMatrixSigns\bin\Debug\netcoreapp3.1\ConsoleMatrixSigns.exe
+C:\Users\MKochubei\source\repos\ConsoleMatrixSigns\GreenMatrixSigns\bin\Debug\netcoreapp3.1\ConsoleMatrixSigns.deps.json
+C:\Users\MKochubei\source\repos\ConsoleMatrixSigns\GreenMatrixSigns\bin\Debug\netcoreapp3.1\ConsoleMatrixSigns.runtimeconfig.json
+C:\Users\MKochubei\source\repos\ConsoleMatrixSigns\GreenMatrixSigns\bin\Debug\netcoreapp3.1\ConsoleMatrixSigns.runtimeconfig.dev.json
+C:\Users\MKochubei\source\repos\ConsoleMatrixSigns\GreenMatrixSigns\bin\Debug\netcoreapp3.1\ConsoleMatrixSigns.dll
+C:\Users\MKochubei\source\repos\ConsoleMatrixSigns\GreenMatrixSigns\bin\Debug\netcoreapp3.1\ConsoleMatrixSigns.pdb
+C:\Users\MKochubei\source\repos\ConsoleMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\ConsoleMatrixSigns.csprojAssemblyReference.cache
+C:\Users\MKochubei\source\repos\ConsoleMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\ConsoleMatrixSigns.AssemblyInfoInputs.cache
+C:\Users\MKochubei\source\repos\ConsoleMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\ConsoleMatrixSigns.AssemblyInfo.cs
+C:\Users\MKochubei\source\repos\ConsoleMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\ConsoleMatrixSigns.csproj.CoreCompileInputs.cache
+C:\Users\MKochubei\source\repos\ConsoleMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\ConsoleMatrixSigns.dll
+C:\Users\MKochubei\source\repos\ConsoleMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\ConsoleMatrixSigns.pdb
+C:\Users\MKochubei\source\repos\ConsoleMatrixSigns\GreenMatrixSigns\obj\Debug\netcoreapp3.1\ConsoleMatrixSigns.genruntimeconfig.cache
